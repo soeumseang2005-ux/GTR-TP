@@ -23,6 +23,6 @@ public class Algorithm_V1 {
     // Test5
     int min(int[] input) {
         return 0;
-        //I MADE
+        
     }
 }
