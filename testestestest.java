@@ -10,4 +10,4 @@ public testestestest {
         System.out.println("Max: " + maxResult);
         System.out.println("Min: " + minResult);
     }
-}
+}djshaodjsoidoishodihsaodjsoihdoisahdoihsadisaodsadsadsadsdsadsadsadsadsadsaad
