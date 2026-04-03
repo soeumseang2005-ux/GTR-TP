@@ -4,10 +4,10 @@ public testestestest {
         int[] sumResult = algorithm.sum(new int[]{1, 2, 3});
         int maxResult = algorithm.max(new int[]{1, 2, 3});
         int minResult = algorithm.min(new int[]{1, 2, 3});
-
         // Print results
         System.out.println("Sum: " + java.util.Arrays.toString(sumResult));
         System.out.println("Max: " + maxResult);
         System.out.println("Min: " + minResult);
-    }
-}
+
+
+        
